@@ -1,14 +1,2 @@
-### POST /api/auth/register
-Registers a new user
+### Solvit assignment 2 : SHIMWA Aime Kelvin, UMWALI christa
 
-**Body:**
-{
-  "username": "john",
-  "password": "secret123",
-  "role": "author"
-}
-
-**Returns:**
-{
-  "token": "eyJhbGciOi..."
-}
